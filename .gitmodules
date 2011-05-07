@@ -1,0 +1,1554 @@
+[submodule "AccessStatsPlugin"]
+	path = AccessStatsPlugin
+	url = git@github.com:foswiki/AccessStatsPlugin.git
+[submodule "ActionTrackerPlugin"]
+	path = ActionTrackerPlugin
+	url = git@github.com:foswiki/ActionTrackerPlugin.git
+[submodule "AddDBMGroupPlugin"]
+	path = AddDBMGroupPlugin
+	url = git@github.com:foswiki/AddDBMGroupPlugin.git
+[submodule "AdvertsPlugin"]
+	path = AdvertsPlugin
+	url = git@github.com:foswiki/AdvertsPlugin.git
+[submodule "AgentPlugin"]
+	path = AgentPlugin
+	url = git@github.com:foswiki/AgentPlugin.git
+[submodule "AliasPlugin"]
+	path = AliasPlugin
+	url = git@github.com:foswiki/AliasPlugin.git
+[submodule "AntiWikiSpamPlugin"]
+	path = AntiWikiSpamPlugin
+	url = git@github.com:foswiki/AntiWikiSpamPlugin.git
+[submodule "AnyWikiDrawPlugin"]
+	path = AnyWikiDrawPlugin
+	url = git@github.com:foswiki/AnyWikiDrawPlugin.git
+[submodule "ApprovalPlugin"]
+	path = ApprovalPlugin
+	url = git@github.com:foswiki/ApprovalPlugin.git
+[submodule "AttachContentPlugin"]
+	path = AttachContentPlugin
+	url = git@github.com:foswiki/AttachContentPlugin.git
+[submodule "AttachLinkPlugin"]
+	path = AttachLinkPlugin
+	url = git@github.com:foswiki/AttachLinkPlugin.git
+[submodule "AttachmentFilterPlugin"]
+	path = AttachmentFilterPlugin
+	url = git@github.com:foswiki/AttachmentFilterPlugin.git
+[submodule "AttachmentListPlugin"]
+	path = AttachmentListPlugin
+	url = git@github.com:foswiki/AttachmentListPlugin.git
+[submodule "AttachmentUrlShortcutPlugin"]
+	path = AttachmentUrlShortcutPlugin
+	url = git@github.com:foswiki/AttachmentUrlShortcutPlugin.git
+[submodule "AutoCompleteAddOn"]
+	path = AutoCompleteAddOn
+	url = git@github.com:foswiki/AutoCompleteAddOn.git
+[submodule "AutoCompletePlugin"]
+	path = AutoCompletePlugin
+	url = git@github.com:foswiki/AutoCompletePlugin.git
+[submodule "AutoCompletionLibPlugin"]
+	path = AutoCompletionLibPlugin
+	url = git@github.com:foswiki/AutoCompletionLibPlugin.git
+[submodule "AutoSavePlugin"]
+	path = AutoSavePlugin
+	url = git@github.com:foswiki/AutoSavePlugin.git
+[submodule "AutoTemplatePlugin"]
+	path = AutoTemplatePlugin
+	url = git@github.com:foswiki/AutoTemplatePlugin.git
+[submodule "AutoViewTemplatePlugin"]
+	path = AutoViewTemplatePlugin
+	url = git@github.com:foswiki/AutoViewTemplatePlugin.git
+[submodule "AvatarPlugin"]
+	path = AvatarPlugin
+	url = git@github.com:foswiki/AvatarPlugin.git
+[submodule "BarcodePlugin"]
+	path = BarcodePlugin
+	url = git@github.com:foswiki/BarcodePlugin.git
+[submodule "BaseSkin"]
+	path = BaseSkin
+	url = git@github.com:foswiki/BaseSkin.git
+[submodule "BatchUploadPlugin"]
+	path = BatchUploadPlugin
+	url = git@github.com:foswiki/BatchUploadPlugin.git
+[submodule "BeautifierPlugin"]
+	path = BeautifierPlugin
+	url = git@github.com:foswiki/BeautifierPlugin.git
+[submodule "BehaviourContrib"]
+	path = BehaviourContrib
+	url = git@github.com:foswiki/BehaviourContrib.git
+[submodule "BenchmarkContrib"]
+	path = BenchmarkContrib
+	url = git@github.com:foswiki/BenchmarkContrib.git
+[submodule "BibliographyPlugin"]
+	path = BibliographyPlugin
+	url = git@github.com:foswiki/BibliographyPlugin.git
+[submodule "BibtexPlugin"]
+	path = BibtexPlugin
+	url = git@github.com:foswiki/BibtexPlugin.git
+[submodule "BigBlueButtonPlugin"]
+	path = BigBlueButtonPlugin
+	url = git@github.com:foswiki/BigBlueButtonPlugin.git
+[submodule "BioKbPlugin"]
+	path = BioKbPlugin
+	url = git@github.com:foswiki/BioKbPlugin.git
+[submodule "BlackListPlugin"]
+	path = BlackListPlugin
+	url = git@github.com:foswiki/BlackListPlugin.git
+[submodule "BlogAddOn"]
+	path = BlogAddOn
+	url = git@github.com:foswiki/BlogAddOn.git
+[submodule "BlogPlugin"]
+	path = BlogPlugin
+	url = git@github.com:foswiki/BlogPlugin.git
+[submodule "BookmakerPlugin"]
+	path = BookmakerPlugin
+	url = git@github.com:foswiki/BookmakerPlugin.git
+[submodule "BreadCrumbsPlugin"]
+	path = BreadCrumbsPlugin
+	url = git@github.com:foswiki/BreadCrumbsPlugin.git
+[submodule "BrowserBoosterPlugin"]
+	path = BrowserBoosterPlugin
+	url = git@github.com:foswiki/BrowserBoosterPlugin.git
+[submodule "BugsContrib"]
+	path = BugsContrib
+	url = git@github.com:foswiki/BugsContrib.git
+[submodule "BugzillaLinkPlugin"]
+	path = BugzillaLinkPlugin
+	url = git@github.com:foswiki/BugzillaLinkPlugin.git
+[submodule "BugzillaQueryPlugin"]
+	path = BugzillaQueryPlugin
+	url = git@github.com:foswiki/BugzillaQueryPlugin.git
+[submodule "BuildContrib"]
+	path = BuildContrib
+	url = git@github.com:foswiki/BuildContrib.git
+[submodule "CKEditorPlugin"]
+	path = CKEditorPlugin
+	url = git@github.com:foswiki/CKEditorPlugin.git
+[submodule "CacheAddOn"]
+	path = CacheAddOn
+	url = git@github.com:foswiki/CacheAddOn.git
+[submodule "CacheChooserAddOn"]
+	path = CacheChooserAddOn
+	url = git@github.com:foswiki/CacheChooserAddOn.git
+[submodule "CalDAVPlugin"]
+	path = CalDAVPlugin
+	url = git@github.com:foswiki/CalDAVPlugin.git
+[submodule "CalendarPlugin"]
+	path = CalendarPlugin
+	url = git@github.com:foswiki/CalendarPlugin.git
+[submodule "CaptchaPlugin"]
+	path = CaptchaPlugin
+	url = git@github.com:foswiki/CaptchaPlugin.git
+[submodule "CasLoginContrib"]
+	path = CasLoginContrib
+	url = git@github.com:foswiki/CasLoginContrib.git
+[submodule "ChartPlugin"]
+	path = ChartPlugin
+	url = git@github.com:foswiki/ChartPlugin.git
+[submodule "ChecklistPlugin"]
+	path = ChecklistPlugin
+	url = git@github.com:foswiki/ChecklistPlugin.git
+[submodule "ChecklistTablePlugin"]
+	path = ChecklistTablePlugin
+	url = git@github.com:foswiki/ChecklistTablePlugin.git
+[submodule "ChildTopicTemplatePlugin"]
+	path = ChildTopicTemplatePlugin
+	url = git@github.com:foswiki/ChildTopicTemplatePlugin.git
+[submodule "ChildTopicsTag"]
+	path = ChildTopicsTag
+	url = git@github.com:foswiki/ChildTopicsTag.git
+[submodule "ClamAVScanPlugin"]
+	path = ClamAVScanPlugin
+	url = git@github.com:foswiki/ClamAVScanPlugin.git
+[submodule "ClassificationPlugin"]
+	path = ClassificationPlugin
+	url = git@github.com:foswiki/ClassificationPlugin.git
+[submodule "CliRunnerContrib"]
+	path = CliRunnerContrib
+	url = git@github.com:foswiki/CliRunnerContrib.git
+[submodule "ClickToCallPlugin"]
+	path = ClickToCallPlugin
+	url = git@github.com:foswiki/ClickToCallPlugin.git
+[submodule "CommentPlugin"]
+	path = CommentPlugin
+	url = git@github.com:foswiki/CommentPlugin.git
+[submodule "CompareRevisionsAddOn"]
+	path = CompareRevisionsAddOn
+	url = git@github.com:foswiki/CompareRevisionsAddOn.git
+[submodule "ComponentEditPlugin"]
+	path = ComponentEditPlugin
+	url = git@github.com:foswiki/ComponentEditPlugin.git
+[submodule "ConditionalPlugin"]
+	path = ConditionalPlugin
+	url = git@github.com:foswiki/ConditionalPlugin.git
+[submodule "ConfluenceToFoswikiContrib"]
+	path = ConfluenceToFoswikiContrib
+	url = git@github.com:foswiki/ConfluenceToFoswikiContrib.git
+[submodule "ContributorsPlugin"]
+	path = ContributorsPlugin
+	url = git@github.com:foswiki/ContributorsPlugin.git
+[submodule "ControlWikiWordPlugin"]
+	path = ControlWikiWordPlugin
+	url = git@github.com:foswiki/ControlWikiWordPlugin.git
+[submodule "ControlsPlugin"]
+	path = ControlsPlugin
+	url = git@github.com:foswiki/ControlsPlugin.git
+[submodule "CounterPlugin"]
+	path = CounterPlugin
+	url = git@github.com:foswiki/CounterPlugin.git
+[submodule "CpanContrib"]
+	path = CpanContrib
+	url = git@github.com:foswiki/CpanContrib.git
+[submodule "CpanInstallerContrib"]
+	path = CpanInstallerContrib
+	url = git@github.com:foswiki/CpanInstallerContrib.git
+[submodule "CreateTopicTag"]
+	path = CreateTopicTag
+	url = git@github.com:foswiki/CreateTopicTag.git
+[submodule "CrossTopicDiffPlugin"]
+	path = CrossTopicDiffPlugin
+	url = git@github.com:foswiki/CrossTopicDiffPlugin.git
+[submodule "CssPlugin"]
+	path = CssPlugin
+	url = git@github.com:foswiki/CssPlugin.git
+[submodule "CurrencyConverterPlugin"]
+	path = CurrencyConverterPlugin
+	url = git@github.com:foswiki/CurrencyConverterPlugin.git
+[submodule "DBCacheContrib"]
+	path = DBCacheContrib
+	url = git@github.com:foswiki/DBCacheContrib.git
+[submodule "DBCachePlugin"]
+	path = DBCachePlugin
+	url = git@github.com:foswiki/DBCachePlugin.git
+[submodule "DBConnectorPlugin"]
+	path = DBConnectorPlugin
+	url = git@github.com:foswiki/DBConnectorPlugin.git
+[submodule "DBIQueryPlugin"]
+	path = DBIQueryPlugin
+	url = git@github.com:foswiki/DBIQueryPlugin.git
+[submodule "DBIStoreContrib"]
+	path = DBIStoreContrib
+	url = git@github.com:foswiki/DBIStoreContrib.git
+[submodule "DatabasePlugin"]
+	path = DatabasePlugin
+	url = git@github.com:foswiki/DatabasePlugin.git
+[submodule "DateFieldPlugin"]
+	path = DateFieldPlugin
+	url = git@github.com:foswiki/DateFieldPlugin.git
+[submodule "DateTimePlugin"]
+	path = DateTimePlugin
+	url = git@github.com:foswiki/DateTimePlugin.git
+[submodule "DbXmlPlugin"]
+	path = DbXmlPlugin
+	url = git@github.com:foswiki/DbXmlPlugin.git
+[submodule "DbiContrib"]
+	path = DbiContrib
+	url = git@github.com:foswiki/DbiContrib.git
+[submodule "DebianRepositoryPlugin"]
+	path = DebianRepositoryPlugin
+	url = git@github.com:foswiki/DebianRepositoryPlugin.git
+[submodule "DebugLogPlugin"]
+	path = DebugLogPlugin
+	url = git@github.com:foswiki/DebugLogPlugin.git
+[submodule "DelayMacroPlugin"]
+	path = DelayMacroPlugin
+	url = git@github.com:foswiki/DelayMacroPlugin.git
+[submodule "DigestPlugin"]
+	path = DigestPlugin
+	url = git@github.com:foswiki/DigestPlugin.git
+[submodule "DirectedGraphPlugin"]
+	path = DirectedGraphPlugin
+	url = git@github.com:foswiki/DirectedGraphPlugin.git
+[submodule "DirectedGraphWebMapPlugin"]
+	path = DirectedGraphWebMapPlugin
+	url = git@github.com:foswiki/DirectedGraphWebMapPlugin.git
+[submodule "DiskUsagePlugin"]
+	path = DiskUsagePlugin
+	url = git@github.com:foswiki/DiskUsagePlugin.git
+[submodule "DistributedServersPlugin"]
+	path = DistributedServersPlugin
+	url = git@github.com:foswiki/DistributedServersPlugin.git
+[submodule "DistributionContrib"]
+	path = DistributionContrib
+	url = git@github.com:foswiki/DistributionContrib.git
+[submodule "DojoToolkitContrib"]
+	path = DojoToolkitContrib
+	url = git@github.com:foswiki/DojoToolkitContrib.git
+[submodule "DoxygenPlugin"]
+	path = DoxygenPlugin
+	url = git@github.com:foswiki/DoxygenPlugin.git
+[submodule "DpSyntaxHighlighterPlugin"]
+	path = DpSyntaxHighlighterPlugin
+	url = git@github.com:foswiki/DpSyntaxHighlighterPlugin.git
+[submodule "DrupalUsersContrib"]
+	path = DrupalUsersContrib
+	url = git@github.com:foswiki/DrupalUsersContrib.git
+[submodule "EFetchPlugin"]
+	path = EFetchPlugin
+	url = git@github.com:foswiki/EFetchPlugin.git
+[submodule "EasyMacroPlugin"]
+	path = EasyMacroPlugin
+	url = git@github.com:foswiki/EasyMacroPlugin.git
+[submodule "EasyTimelinePlugin"]
+	path = EasyTimelinePlugin
+	url = git@github.com:foswiki/EasyTimelinePlugin.git
+[submodule "EditChapterPlugin"]
+	path = EditChapterPlugin
+	url = git@github.com:foswiki/EditChapterPlugin.git
+[submodule "EditContrib"]
+	path = EditContrib
+	url = git@github.com:foswiki/EditContrib.git
+[submodule "EditHiddenTablePlugin"]
+	path = EditHiddenTablePlugin
+	url = git@github.com:foswiki/EditHiddenTablePlugin.git
+[submodule "EditInTablePlugin"]
+	path = EditInTablePlugin
+	url = git@github.com:foswiki/EditInTablePlugin.git
+[submodule "EditRowPlugin"]
+	path = EditRowPlugin
+	url = git@github.com:foswiki/EditRowPlugin.git
+[submodule "EditSyntaxPlugin"]
+	path = EditSyntaxPlugin
+	url = git@github.com:foswiki/EditSyntaxPlugin.git
+[submodule "EditTablePlugin"]
+	path = EditTablePlugin
+	url = git@github.com:foswiki/EditTablePlugin.git
+[submodule "EditTablerowPlugin"]
+	path = EditTablerowPlugin
+	url = git@github.com:foswiki/EditTablerowPlugin.git
+[submodule "EidoGoPlugin"]
+	path = EidoGoPlugin
+	url = git@github.com:foswiki/EidoGoPlugin.git
+[submodule "EmbedBibPlugin"]
+	path = EmbedBibPlugin
+	url = git@github.com:foswiki/EmbedBibPlugin.git
+[submodule "EmbedPDFPlugin"]
+	path = EmbedPDFPlugin
+	url = git@github.com:foswiki/EmbedPDFPlugin.git
+[submodule "EmbedPlugin"]
+	path = EmbedPlugin
+	url = git@github.com:foswiki/EmbedPlugin.git
+[submodule "EmbedQTPlugin"]
+	path = EmbedQTPlugin
+	url = git@github.com:foswiki/EmbedQTPlugin.git
+[submodule "EmbedTopicPlugin"]
+	path = EmbedTopicPlugin
+	url = git@github.com:foswiki/EmbedTopicPlugin.git
+[submodule "EmptyContrib"]
+	path = EmptyContrib
+	url = git@github.com:foswiki/EmptyContrib.git
+[submodule "EmptyHeaderArtContrib"]
+	path = EmptyHeaderArtContrib
+	url = git@github.com:foswiki/EmptyHeaderArtContrib.git
+[submodule "EmptyJQueryPlugin"]
+	path = EmptyJQueryPlugin
+	url = git@github.com:foswiki/EmptyJQueryPlugin.git
+[submodule "EmptyPlugin"]
+	path = EmptyPlugin
+	url = git@github.com:foswiki/EmptyPlugin.git
+[submodule "EmptyTag"]
+	path = EmptyTag
+	url = git@github.com:foswiki/EmptyTag.git
+[submodule "EncryptedPagesPlugin"]
+	path = EncryptedPagesPlugin
+	url = git@github.com:foswiki/EncryptedPagesPlugin.git
+[submodule "EndNotePlugin"]
+	path = EndNotePlugin
+	url = git@github.com:foswiki/EndNotePlugin.git
+[submodule "ExampleHeaderArtContrib"]
+	path = ExampleHeaderArtContrib
+	url = git@github.com:foswiki/ExampleHeaderArtContrib.git
+[submodule "ExcelImportExportPlugin"]
+	path = ExcelImportExportPlugin
+	url = git@github.com:foswiki/ExcelImportExportPlugin.git
+[submodule "ExecuterContrib"]
+	path = ExecuterContrib
+	url = git@github.com:foswiki/ExecuterContrib.git
+[submodule "ExifMetaDataPlugin"]
+	path = ExifMetaDataPlugin
+	url = git@github.com:foswiki/ExifMetaDataPlugin.git
+[submodule "ExitPlugin"]
+	path = ExitPlugin
+	url = git@github.com:foswiki/ExitPlugin.git
+[submodule "ExpandTopicContentPlugin"]
+	path = ExpandTopicContentPlugin
+	url = git@github.com:foswiki/ExpandTopicContentPlugin.git
+[submodule "ExplicitNumberingPlugin"]
+	path = ExplicitNumberingPlugin
+	url = git@github.com:foswiki/ExplicitNumberingPlugin.git
+[submodule "ExportCookiePlugin"]
+	path = ExportCookiePlugin
+	url = git@github.com:foswiki/ExportCookiePlugin.git
+[submodule "ExtTopicListPlugin"]
+	path = ExtTopicListPlugin
+	url = git@github.com:foswiki/ExtTopicListPlugin.git
+[submodule "ExtendedSelectPlugin"]
+	path = ExtendedSelectPlugin
+	url = git@github.com:foswiki/ExtendedSelectPlugin.git
+[submodule "ExtendedWebListPlugin"]
+	path = ExtendedWebListPlugin
+	url = git@github.com:foswiki/ExtendedWebListPlugin.git
+[submodule "ExtensionsRepositoryContrib"]
+	path = ExtensionsRepositoryContrib
+	url = git@github.com:foswiki/ExtensionsRepositoryContrib.git
+[submodule "ExternalLinkPlugin"]
+	path = ExternalLinkPlugin
+	url = git@github.com:foswiki/ExternalLinkPlugin.git
+[submodule "ExternalTopicViewerPlugin"]
+	path = ExternalTopicViewerPlugin
+	url = git@github.com:foswiki/ExternalTopicViewerPlugin.git
+[submodule "FakeBasicAuthRegPlugin"]
+	path = FakeBasicAuthRegPlugin
+	url = git@github.com:foswiki/FakeBasicAuthRegPlugin.git
+[submodule "FallbackPlugin"]
+	path = FallbackPlugin
+	url = git@github.com:foswiki/FallbackPlugin.git
+[submodule "FamFamFamContrib"]
+	path = FamFamFamContrib
+	url = git@github.com:foswiki/FamFamFamContrib.git
+[submodule "FamilyTreePlugin"]
+	path = FamilyTreePlugin
+	url = git@github.com:foswiki/FamilyTreePlugin.git
+[submodule "FastCGIEngineContrib"]
+	path = FastCGIEngineContrib
+	url = git@github.com:foswiki/FastCGIEngineContrib.git
+[submodule "FilterPlugin"]
+	path = FilterPlugin
+	url = git@github.com:foswiki/FilterPlugin.git
+[submodule "FindElsewherePlugin"]
+	path = FindElsewherePlugin
+	url = git@github.com:foswiki/FindElsewherePlugin.git
+[submodule "FirebugLitePlugin"]
+	path = FirebugLitePlugin
+	url = git@github.com:foswiki/FirebugLitePlugin.git
+[submodule "FirefoxExtensionAddOn"]
+	path = FirefoxExtensionAddOn
+	url = git@github.com:foswiki/FirefoxExtensionAddOn.git
+[submodule "FlexFormPlugin"]
+	path = FlexFormPlugin
+	url = git@github.com:foswiki/FlexFormPlugin.git
+[submodule "FlexPaperPlugin"]
+	path = FlexPaperPlugin
+	url = git@github.com:foswiki/FlexPaperPlugin.git
+[submodule "FlexWebListPlugin"]
+	path = FlexWebListPlugin
+	url = git@github.com:foswiki/FlexWebListPlugin.git
+[submodule "FlotChartPlugin"]
+	path = FlotChartPlugin
+	url = git@github.com:foswiki/FlotChartPlugin.git
+[submodule "FlowchartPlugin"]
+	path = FlowchartPlugin
+	url = git@github.com:foswiki/FlowchartPlugin.git
+[submodule "FootNotePlugin"]
+	path = FootNotePlugin
+	url = git@github.com:foswiki/FootNotePlugin.git
+[submodule "ForEachPlugin"]
+	path = ForEachPlugin
+	url = git@github.com:foswiki/ForEachPlugin.git
+[submodule "FormFieldListPlugin"]
+	path = FormFieldListPlugin
+	url = git@github.com:foswiki/FormFieldListPlugin.git
+[submodule "FormFieldsPlugin"]
+	path = FormFieldsPlugin
+	url = git@github.com:foswiki/FormFieldsPlugin.git
+[submodule "FormPivotPlugin"]
+	path = FormPivotPlugin
+	url = git@github.com:foswiki/FormPivotPlugin.git
+[submodule "FormPlugin"]
+	path = FormPlugin
+	url = git@github.com:foswiki/FormPlugin.git
+[submodule "FormQueryPlugin"]
+	path = FormQueryPlugin
+	url = git@github.com:foswiki/FormQueryPlugin.git
+[submodule "FormsAddOn"]
+	path = FormsAddOn
+	url = git@github.com:foswiki/FormsAddOn.git
+[submodule "FortunePlugin"]
+	path = FortunePlugin
+	url = git@github.com:foswiki/FortunePlugin.git
+[submodule "FoswikiApplicationsContrib"]
+	path = FoswikiApplicationsContrib
+	url = git@github.com:foswiki/FoswikiApplicationsContrib.git
+[submodule "FoswikiGitDevPlugin"]
+	path = FoswikiGitDevPlugin
+	url = git@github.com:foswiki/FoswikiGitDevPlugin.git
+[submodule "FoswikiOnLinuxSharedHostCommandShell"]
+	path = FoswikiOnLinuxSharedHostCommandShell
+	url = git@github.com:foswiki/FoswikiOnLinuxSharedHostCommandShell.git
+[submodule "FoswikiSiteSkin"]
+	path = FoswikiSiteSkin
+	url = git@github.com:foswiki/FoswikiSiteSkin.git
+[submodule "FreeMarkerPlugin"]
+	path = FreeMarkerPlugin
+	url = git@github.com:foswiki/FreeMarkerPlugin.git
+[submodule "FugueIconsContrib"]
+	path = FugueIconsContrib
+	url = git@github.com:foswiki/FugueIconsContrib.git
+[submodule "FullCalendarPlugin"]
+	path = FullCalendarPlugin
+	url = git@github.com:foswiki/FullCalendarPlugin.git
+[submodule "FundraisingPlugin"]
+	path = FundraisingPlugin
+	url = git@github.com:foswiki/FundraisingPlugin.git
+[submodule "GaugePlugin"]
+	path = GaugePlugin
+	url = git@github.com:foswiki/GaugePlugin.git
+[submodule "GenPDFAddOn"]
+	path = GenPDFAddOn
+	url = git@github.com:foswiki/GenPDFAddOn.git
+[submodule "GenPDFLatexAddOn"]
+	path = GenPDFLatexAddOn
+	url = git@github.com:foswiki/GenPDFLatexAddOn.git
+[submodule "GenPDFPrincePlugin"]
+	path = GenPDFPrincePlugin
+	url = git@github.com:foswiki/GenPDFPrincePlugin.git
+[submodule "GenPDFWebkitPlugin"]
+	path = GenPDFWebkitPlugin
+	url = git@github.com:foswiki/GenPDFWebkitPlugin.git
+[submodule "GenerateSearchPlugin"]
+	path = GenerateSearchPlugin
+	url = git@github.com:foswiki/GenerateSearchPlugin.git
+[submodule "GenericWikiToTWikiAddOn"]
+	path = GenericWikiToTWikiAddOn
+	url = git@github.com:foswiki/GenericWikiToTWikiAddOn.git
+[submodule "GeoPlugin"]
+	path = GeoPlugin
+	url = git@github.com:foswiki/GeoPlugin.git
+[submodule "GetAWebPlugin"]
+	path = GetAWebPlugin
+	url = git@github.com:foswiki/GetAWebPlugin.git
+[submodule "GitPlugin"]
+	path = GitPlugin
+	url = git@github.com:foswiki/GitPlugin.git
+[submodule "GlobalReplacePlugin"]
+	path = GlobalReplacePlugin
+	url = git@github.com:foswiki/GlobalReplacePlugin.git
+[submodule "GluePlugin"]
+	path = GluePlugin
+	url = git@github.com:foswiki/GluePlugin.git
+[submodule "GnuPlotPlugin"]
+	path = GnuPlotPlugin
+	url = git@github.com:foswiki/GnuPlotPlugin.git
+[submodule "GoUptoTocPlugin"]
+	path = GoUptoTocPlugin
+	url = git@github.com:foswiki/GoUptoTocPlugin.git
+[submodule "GoogleAjaxSearchPlugin"]
+	path = GoogleAjaxSearchPlugin
+	url = git@github.com:foswiki/GoogleAjaxSearchPlugin.git
+[submodule "GoogleAnalyticsPlugin"]
+	path = GoogleAnalyticsPlugin
+	url = git@github.com:foswiki/GoogleAnalyticsPlugin.git
+[submodule "GoogleSearchPlugin"]
+	path = GoogleSearchPlugin
+	url = git@github.com:foswiki/GoogleSearchPlugin.git
+[submodule "GpgkeyPlugin"]
+	path = GpgkeyPlugin
+	url = git@github.com:foswiki/GpgkeyPlugin.git
+[submodule "GuidPlugin"]
+	path = GuidPlugin
+	url = git@github.com:foswiki/GuidPlugin.git
+[submodule "HTTPDUserAdminContrib"]
+	path = HTTPDUserAdminContrib
+	url = git@github.com:foswiki/HTTPDUserAdminContrib.git
+[submodule "HTTPEngineContrib"]
+	path = HTTPEngineContrib
+	url = git@github.com:foswiki/HTTPEngineContrib.git
+[submodule "HeadlinesPlugin"]
+	path = HeadlinesPlugin
+	url = git@github.com:foswiki/HeadlinesPlugin.git
+[submodule "HiddenPatternSidebarSkin"]
+	path = HiddenPatternSidebarSkin
+	url = git@github.com:foswiki/HiddenPatternSidebarSkin.git
+[submodule "HiddenTextPlugin"]
+	path = HiddenTextPlugin
+	url = git@github.com:foswiki/HiddenTextPlugin.git
+[submodule "HideInEditModePlugin"]
+	path = HideInEditModePlugin
+	url = git@github.com:foswiki/HideInEditModePlugin.git
+[submodule "HijaxPlugin"]
+	path = HijaxPlugin
+	url = git@github.com:foswiki/HijaxPlugin.git
+[submodule "HistoryPlugin"]
+	path = HistoryPlugin
+	url = git@github.com:foswiki/HistoryPlugin.git
+[submodule "HolidaylistPlugin"]
+	path = HolidaylistPlugin
+	url = git@github.com:foswiki/HolidaylistPlugin.git
+[submodule "HomePagePlugin"]
+	path = HomePagePlugin
+	url = git@github.com:foswiki/HomePagePlugin.git
+[submodule "HostnamePlugin"]
+	path = HostnamePlugin
+	url = git@github.com:foswiki/HostnamePlugin.git
+[submodule "HtmlFormsPlugin"]
+	path = HtmlFormsPlugin
+	url = git@github.com:foswiki/HtmlFormsPlugin.git
+[submodule "HttpHeaderPlugin"]
+	path = HttpHeaderPlugin
+	url = git@github.com:foswiki/HttpHeaderPlugin.git
+[submodule "HttpsRedirectPlugin"]
+	path = HttpsRedirectPlugin
+	url = git@github.com:foswiki/HttpsRedirectPlugin.git
+[submodule "IconPlugin"]
+	path = IconPlugin
+	url = git@github.com:foswiki/IconPlugin.git
+[submodule "IfDefinedPlugin"]
+	path = IfDefinedPlugin
+	url = git@github.com:foswiki/IfDefinedPlugin.git
+[submodule "ImageGalleryPlugin"]
+	path = ImageGalleryPlugin
+	url = git@github.com:foswiki/ImageGalleryPlugin.git
+[submodule "ImagePlugin"]
+	path = ImagePlugin
+	url = git@github.com:foswiki/ImagePlugin.git
+[submodule "ImgMapPlugin"]
+	path = ImgMapPlugin
+	url = git@github.com:foswiki/ImgMapPlugin.git
+[submodule "ImgPlugin"]
+	path = ImgPlugin
+	url = git@github.com:foswiki/ImgPlugin.git
+[submodule "ImgTag"]
+	path = ImgTag
+	url = git@github.com:foswiki/ImgTag.git
+[submodule "ImmediateNotifyPlugin"]
+	path = ImmediateNotifyPlugin
+	url = git@github.com:foswiki/ImmediateNotifyPlugin.git
+[submodule "ImportPlugin"]
+	path = ImportPlugin
+	url = git@github.com:foswiki/ImportPlugin.git
+[submodule "InclTag"]
+	path = InclTag
+	url = git@github.com:foswiki/InclTag.git
+[submodule "IncludeIndexPlugin"]
+	path = IncludeIndexPlugin
+	url = git@github.com:foswiki/IncludeIndexPlugin.git
+[submodule "IncludeRevisionPlugin"]
+	path = IncludeRevisionPlugin
+	url = git@github.com:foswiki/IncludeRevisionPlugin.git
+[submodule "InlineEditPlugin"]
+	path = InlineEditPlugin
+	url = git@github.com:foswiki/InlineEditPlugin.git
+[submodule "InterwikiPlugin"]
+	path = InterwikiPlugin
+	url = git@github.com:foswiki/InterwikiPlugin.git
+[submodule "InterwikiPreviewPlugin"]
+	path = InterwikiPreviewPlugin
+	url = git@github.com:foswiki/InterwikiPreviewPlugin.git
+[submodule "IrcPlugin"]
+	path = IrcPlugin
+	url = git@github.com:foswiki/IrcPlugin.git
+[submodule "JEditableContrib"]
+	path = JEditableContrib
+	url = git@github.com:foswiki/JEditableContrib.git
+[submodule "JHotDrawPlugin"]
+	path = JHotDrawPlugin
+	url = git@github.com:foswiki/JHotDrawPlugin.git
+[submodule "JQFullCalendarPlugin"]
+	path = JQFullCalendarPlugin
+	url = git@github.com:foswiki/JQFullCalendarPlugin.git
+[submodule "JQGridPlugin"]
+	path = JQGridPlugin
+	url = git@github.com:foswiki/JQGridPlugin.git
+[submodule "JQPrettyPhotoContrib"]
+	path = JQPrettyPhotoContrib
+	url = git@github.com:foswiki/JQPrettyPhotoContrib.git
+[submodule "JQTablePlugin"]
+	path = JQTablePlugin
+	url = git@github.com:foswiki/JQTablePlugin.git
+[submodule "JQueryCompatibilityModePlugin"]
+	path = JQueryCompatibilityModePlugin
+	url = git@github.com:foswiki/JQueryCompatibilityModePlugin.git
+[submodule "JQueryExtrasPlugin"]
+	path = JQueryExtrasPlugin
+	url = git@github.com:foswiki/JQueryExtrasPlugin.git
+[submodule "JQueryLibPlugin"]
+	path = JQueryLibPlugin
+	url = git@github.com:foswiki/JQueryLibPlugin.git
+[submodule "JQueryMenuSkin"]
+	path = JQueryMenuSkin
+	url = git@github.com:foswiki/JQueryMenuSkin.git
+[submodule "JQueryPlugin"]
+	path = JQueryPlugin
+	url = git@github.com:foswiki/JQueryPlugin.git
+[submodule "JQuerymbComponentsPlugin"]
+	path = JQuerymbComponentsPlugin
+	url = git@github.com:foswiki/JQuerymbComponentsPlugin.git
+[submodule "JSCalendarContrib"]
+	path = JSCalendarContrib
+	url = git@github.com:foswiki/JSCalendarContrib.git
+[submodule "JSONEditorJQueryPlugin"]
+	path = JSONEditorJQueryPlugin
+	url = git@github.com:foswiki/JSONEditorJQueryPlugin.git
+[submodule "JSPopupPlugin"]
+	path = JSPopupPlugin
+	url = git@github.com:foswiki/JSPopupPlugin.git
+[submodule "JSPwikiToTWikiAddOn"]
+	path = JSPwikiToTWikiAddOn
+	url = git@github.com:foswiki/JSPwikiToTWikiAddOn.git
+[submodule "JSTreeContrib"]
+	path = JSTreeContrib
+	url = git@github.com:foswiki/JSTreeContrib.git
+[submodule "JSUnitContrib"]
+	path = JSUnitContrib
+	url = git@github.com:foswiki/JSUnitContrib.git
+[submodule "JavaPasteAddOn"]
+	path = JavaPasteAddOn
+	url = git@github.com:foswiki/JavaPasteAddOn.git
+[submodule "JoomlaUsersContrib"]
+	path = JoomlaUsersContrib
+	url = git@github.com:foswiki/JoomlaUsersContrib.git
+[submodule "JsonRpcContrib"]
+	path = JsonRpcContrib
+	url = git@github.com:foswiki/JsonRpcContrib.git
+[submodule "KinoSearchContrib"]
+	path = KinoSearchContrib
+	url = git@github.com:foswiki/KinoSearchContrib.git
+[submodule "KinoSearchPlugin"]
+	path = KinoSearchPlugin
+	url = git@github.com:foswiki/KinoSearchPlugin.git
+[submodule "KupuContrib"]
+	path = KupuContrib
+	url = git@github.com:foswiki/KupuContrib.git
+[submodule "KwikiToTWikiAddOn"]
+	path = KwikiToTWikiAddOn
+	url = git@github.com:foswiki/KwikiToTWikiAddOn.git
+[submodule "LDAPPasswordChangerPlugin"]
+	path = LDAPPasswordChangerPlugin
+	url = git@github.com:foswiki/LDAPPasswordChangerPlugin.git
+[submodule "LaTeXToMathMLPlugin"]
+	path = LaTeXToMathMLPlugin
+	url = git@github.com:foswiki/LaTeXToMathMLPlugin.git
+[submodule "LatexModePlugin"]
+	path = LatexModePlugin
+	url = git@github.com:foswiki/LatexModePlugin.git
+[submodule "LdapContrib"]
+	path = LdapContrib
+	url = git@github.com:foswiki/LdapContrib.git
+[submodule "LdapNgPlugin"]
+	path = LdapNgPlugin
+	url = git@github.com:foswiki/LdapNgPlugin.git
+[submodule "LdapPlugin"]
+	path = LdapPlugin
+	url = git@github.com:foswiki/LdapPlugin.git
+[submodule "LightboxPlugin"]
+	path = LightboxPlugin
+	url = git@github.com:foswiki/LightboxPlugin.git
+[submodule "LinkOptionsPlugin"]
+	path = LinkOptionsPlugin
+	url = git@github.com:foswiki/LinkOptionsPlugin.git
+[submodule "LinkedInPlugin"]
+	path = LinkedInPlugin
+	url = git@github.com:foswiki/LinkedInPlugin.git
+[submodule "LoadTagsPlugin"]
+	path = LoadTagsPlugin
+	url = git@github.com:foswiki/LoadTagsPlugin.git
+[submodule "LocalCityTimePlugin"]
+	path = LocalCityTimePlugin
+	url = git@github.com:foswiki/LocalCityTimePlugin.git
+[submodule "LocalTimePlugin"]
+	path = LocalTimePlugin
+	url = git@github.com:foswiki/LocalTimePlugin.git
+[submodule "LoginNameAliasesPlugin"]
+	path = LoginNameAliasesPlugin
+	url = git@github.com:foswiki/LoginNameAliasesPlugin.git
+[submodule "MacrosPlugin"]
+	path = MacrosPlugin
+	url = git@github.com:foswiki/MacrosPlugin.git
+[submodule "MailInContrib"]
+	path = MailInContrib
+	url = git@github.com:foswiki/MailInContrib.git
+[submodule "MailPageAddOn"]
+	path = MailPageAddOn
+	url = git@github.com:foswiki/MailPageAddOn.git
+[submodule "MailReminderPlugin"]
+	path = MailReminderPlugin
+	url = git@github.com:foswiki/MailReminderPlugin.git
+[submodule "MailToTWikiAddOn"]
+	path = MailToTWikiAddOn
+	url = git@github.com:foswiki/MailToTWikiAddOn.git
+[submodule "MailerContrib"]
+	path = MailerContrib
+	url = git@github.com:foswiki/MailerContrib.git
+[submodule "MakeCtrlTopicsListAddOn"]
+	path = MakeCtrlTopicsListAddOn
+	url = git@github.com:foswiki/MakeCtrlTopicsListAddOn.git
+[submodule "MathJaxPlugin"]
+	path = MathJaxPlugin
+	url = git@github.com:foswiki/MathJaxPlugin.git
+[submodule "MathModePlugin"]
+	path = MathModePlugin
+	url = git@github.com:foswiki/MathModePlugin.git
+[submodule "MaxImageSizePlugin"]
+	path = MaxImageSizePlugin
+	url = git@github.com:foswiki/MaxImageSizePlugin.git
+[submodule "MediaPlugin"]
+	path = MediaPlugin
+	url = git@github.com:foswiki/MediaPlugin.git
+[submodule "MediaWikiTablePlugin"]
+	path = MediaWikiTablePlugin
+	url = git@github.com:foswiki/MediaWikiTablePlugin.git
+[submodule "MediaWikiToFoswikiContrib"]
+	path = MediaWikiToFoswikiContrib
+	url = git@github.com:foswiki/MediaWikiToFoswikiContrib.git
+[submodule "MeetingBingoPlugin"]
+	path = MeetingBingoPlugin
+	url = git@github.com:foswiki/MeetingBingoPlugin.git
+[submodule "MenuListPlugin"]
+	path = MenuListPlugin
+	url = git@github.com:foswiki/MenuListPlugin.git
+[submodule "MessageBoardPlugin"]
+	path = MessageBoardPlugin
+	url = git@github.com:foswiki/MessageBoardPlugin.git
+[submodule "MetaCommentPlugin"]
+	path = MetaCommentPlugin
+	url = git@github.com:foswiki/MetaCommentPlugin.git
+[submodule "MetaWorkflowPlugin"]
+	path = MetaWorkflowPlugin
+	url = git@github.com:foswiki/MetaWorkflowPlugin.git
+[submodule "MetasearchTag"]
+	path = MetasearchTag
+	url = git@github.com:foswiki/MetasearchTag.git
+[submodule "MicroformatsPlugin"]
+	path = MicroformatsPlugin
+	url = git@github.com:foswiki/MicroformatsPlugin.git
+[submodule "MigrationScriptsContrib"]
+	path = MigrationScriptsContrib
+	url = git@github.com:foswiki/MigrationScriptsContrib.git
+[submodule "MimeIconPlugin"]
+	path = MimeIconPlugin
+	url = git@github.com:foswiki/MimeIconPlugin.git
+[submodule "MirrorWebPlugin"]
+	path = MirrorWebPlugin
+	url = git@github.com:foswiki/MirrorWebPlugin.git
+[submodule "ModPerlEngineContrib"]
+	path = ModPerlEngineContrib
+	url = git@github.com:foswiki/ModPerlEngineContrib.git
+[submodule "ModifyLoginPlugin"]
+	path = ModifyLoginPlugin
+	url = git@github.com:foswiki/ModifyLoginPlugin.git
+[submodule "MongoDBPlugin"]
+	path = MongoDBPlugin
+	url = git@github.com:foswiki/MongoDBPlugin.git
+[submodule "MoreFormfieldsContrib"]
+	path = MoreFormfieldsContrib
+	url = git@github.com:foswiki/MoreFormfieldsContrib.git
+[submodule "MoreVarsPlugin"]
+	path = MoreVarsPlugin
+	url = git@github.com:foswiki/MoreVarsPlugin.git
+[submodule "MostPopularPlugin"]
+	path = MostPopularPlugin
+	url = git@github.com:foswiki/MostPopularPlugin.git
+[submodule "MovableTypePlugin"]
+	path = MovableTypePlugin
+	url = git@github.com:foswiki/MovableTypePlugin.git
+[submodule "MoveableTypeSkin"]
+	path = MoveableTypeSkin
+	url = git@github.com:foswiki/MoveableTypeSkin.git
+[submodule "MrdIdPlugin"]
+	path = MrdIdPlugin
+	url = git@github.com:foswiki/MrdIdPlugin.git
+[submodule "MsOfficeAttachmentsAsHTMLPlugin"]
+	path = MsOfficeAttachmentsAsHTMLPlugin
+	url = git@github.com:foswiki/MsOfficeAttachmentsAsHTMLPlugin.git
+[submodule "MultiEditPlugin"]
+	path = MultiEditPlugin
+	url = git@github.com:foswiki/MultiEditPlugin.git
+[submodule "MultiLangPlugin"]
+	path = MultiLangPlugin
+	url = git@github.com:foswiki/MultiLangPlugin.git
+[submodule "MultiTopicSavePlugin"]
+	path = MultiTopicSavePlugin
+	url = git@github.com:foswiki/MultiTopicSavePlugin.git
+[submodule "NamespaceManagerAddOn"]
+	path = NamespaceManagerAddOn
+	url = git@github.com:foswiki/NamespaceManagerAddOn.git
+[submodule "NatEditPlugin"]
+	path = NatEditPlugin
+	url = git@github.com:foswiki/NatEditPlugin.git
+[submodule "NatSkin"]
+	path = NatSkin
+	url = git@github.com:foswiki/NatSkin.git
+[submodule "NatSkinPlugin"]
+	path = NatSkinPlugin
+	url = git@github.com:foswiki/NatSkinPlugin.git
+[submodule "NativeSearchContrib"]
+	path = NativeSearchContrib
+	url = git@github.com:foswiki/NativeSearchContrib.git
+[submodule "NavBarAddOn"]
+	path = NavBarAddOn
+	url = git@github.com:foswiki/NavBarAddOn.git
+[submodule "NavPlugin"]
+	path = NavPlugin
+	url = git@github.com:foswiki/NavPlugin.git
+[submodule "NavbarPlugin"]
+	path = NavbarPlugin
+	url = git@github.com:foswiki/NavbarPlugin.git
+[submodule "NestedFormsPlugin"]
+	path = NestedFormsPlugin
+	url = git@github.com:foswiki/NestedFormsPlugin.git
+[submodule "NetgrepPlugin"]
+	path = NetgrepPlugin
+	url = git@github.com:foswiki/NetgrepPlugin.git
+[submodule "NewTopicEventPlugin"]
+	path = NewTopicEventPlugin
+	url = git@github.com:foswiki/NewTopicEventPlugin.git
+[submodule "NewUserPlugin"]
+	path = NewUserPlugin
+	url = git@github.com:foswiki/NewUserPlugin.git
+[submodule "NotificationPlugin"]
+	path = NotificationPlugin
+	url = git@github.com:foswiki/NotificationPlugin.git
+[submodule "NotifyOnChildModificationTopic"]
+	path = NotifyOnChildModificationTopic
+	url = git@github.com:foswiki/NotifyOnChildModificationTopic.git
+[submodule "NuSkin"]
+	path = NuSkin
+	url = git@github.com:foswiki/NuSkin.git
+[submodule "ObjectPlugin"]
+	path = ObjectPlugin
+	url = git@github.com:foswiki/ObjectPlugin.git
+[submodule "OpenSourceProjectInAWebContrib"]
+	path = OpenSourceProjectInAWebContrib
+	url = git@github.com:foswiki/OpenSourceProjectInAWebContrib.git
+[submodule "OrphansPlugin"]
+	path = OrphansPlugin
+	url = git@github.com:foswiki/OrphansPlugin.git
+[submodule "PageStatsPlugin"]
+	path = PageStatsPlugin
+	url = git@github.com:foswiki/PageStatsPlugin.git
+[submodule "PasswdUserContrib"]
+	path = PasswdUserContrib
+	url = git@github.com:foswiki/PasswdUserContrib.git
+[submodule "PatentLinkPlugin"]
+	path = PatentLinkPlugin
+	url = git@github.com:foswiki/PatentLinkPlugin.git
+[submodule "PatternSkin"]
+	path = PatternSkin
+	url = git@github.com:foswiki/PatternSkin.git
+[submodule "PeerPlugin"]
+	path = PeerPlugin
+	url = git@github.com:foswiki/PeerPlugin.git
+[submodule "PerforcePlugin"]
+	path = PerforcePlugin
+	url = git@github.com:foswiki/PerforcePlugin.git
+[submodule "PerlPlugin"]
+	path = PerlPlugin
+	url = git@github.com:foswiki/PerlPlugin.git
+[submodule "PerlSamplePlugin"]
+	path = PerlSamplePlugin
+	url = git@github.com:foswiki/PerlSamplePlugin.git
+[submodule "PermLinkPlugin"]
+	path = PermLinkPlugin
+	url = git@github.com:foswiki/PermLinkPlugin.git
+[submodule "PersonalInfoAddOn"]
+	path = PersonalInfoAddOn
+	url = git@github.com:foswiki/PersonalInfoAddOn.git
+[submodule "PhantomPlugin"]
+	path = PhantomPlugin
+	url = git@github.com:foswiki/PhantomPlugin.git
+[submodule "PhotoarchivePlugin"]
+	path = PhotoarchivePlugin
+	url = git@github.com:foswiki/PhotoarchivePlugin.git
+[submodule "PhpBB3UsersContrib"]
+	path = PhpBB3UsersContrib
+	url = git@github.com:foswiki/PhpBB3UsersContrib.git
+[submodule "PhpWikiToTWikiAddOn"]
+	path = PhpWikiToTWikiAddOn
+	url = git@github.com:foswiki/PhpWikiToTWikiAddOn.git
+[submodule "PhyloWidgetPlugin"]
+	path = PhyloWidgetPlugin
+	url = git@github.com:foswiki/PhyloWidgetPlugin.git
+[submodule "PingBackPlugin"]
+	path = PingBackPlugin
+	url = git@github.com:foswiki/PingBackPlugin.git
+[submodule "PloticusPlugin"]
+	path = PloticusPlugin
+	url = git@github.com:foswiki/PloticusPlugin.git
+[submodule "PollPlugin"]
+	path = PollPlugin
+	url = git@github.com:foswiki/PollPlugin.git
+[submodule "PollPluginSvenHess"]
+	path = PollPluginSvenHess
+	url = git@github.com:foswiki/PollPluginSvenHess.git
+[submodule "PreferencesPlugin"]
+	path = PreferencesPlugin
+	url = git@github.com:foswiki/PreferencesPlugin.git
+[submodule "PrefsCachePlugin"]
+	path = PrefsCachePlugin
+	url = git@github.com:foswiki/PrefsCachePlugin.git
+[submodule "ProjectPlannerPlugin"]
+	path = ProjectPlannerPlugin
+	url = git@github.com:foswiki/ProjectPlannerPlugin.git
+[submodule "ProtocolTlaPlugin"]
+	path = ProtocolTlaPlugin
+	url = git@github.com:foswiki/ProtocolTlaPlugin.git
+[submodule "PrototypeContrib"]
+	path = PrototypeContrib
+	url = git@github.com:foswiki/PrototypeContrib.git
+[submodule "PseudoXmlPlugin"]
+	path = PseudoXmlPlugin
+	url = git@github.com:foswiki/PseudoXmlPlugin.git
+[submodule "PublicCacheAddOn"]
+	path = PublicCacheAddOn
+	url = git@github.com:foswiki/PublicCacheAddOn.git
+[submodule "PublishPlugin"]
+	path = PublishPlugin
+	url = git@github.com:foswiki/PublishPlugin.git
+[submodule "PublishWebPlugin"]
+	path = PublishWebPlugin
+	url = git@github.com:foswiki/PublishWebPlugin.git
+[submodule "QueryAcceleratorPlugin"]
+	path = QueryAcceleratorPlugin
+	url = git@github.com:foswiki/QueryAcceleratorPlugin.git
+[submodule "QuickCalendarPlugin"]
+	path = QuickCalendarPlugin
+	url = git@github.com:foswiki/QuickCalendarPlugin.git
+[submodule "QuickMenuSkin"]
+	path = QuickMenuSkin
+	url = git@github.com:foswiki/QuickMenuSkin.git
+[submodule "QuickSearchPlugin"]
+	path = QuickSearchPlugin
+	url = git@github.com:foswiki/QuickSearchPlugin.git
+[submodule "QuizPlugin"]
+	path = QuizPlugin
+	url = git@github.com:foswiki/QuizPlugin.git
+[submodule "RackPlannerPlugin"]
+	path = RackPlannerPlugin
+	url = git@github.com:foswiki/RackPlannerPlugin.git
+[submodule "RandomQuotePlugin"]
+	path = RandomQuotePlugin
+	url = git@github.com:foswiki/RandomQuotePlugin.git
+[submodule "RandomTopicPlugin"]
+	path = RandomTopicPlugin
+	url = git@github.com:foswiki/RandomTopicPlugin.git
+[submodule "RatingContrib"]
+	path = RatingContrib
+	url = git@github.com:foswiki/RatingContrib.git
+[submodule "RecursiveRenderPlugin"]
+	path = RecursiveRenderPlugin
+	url = git@github.com:foswiki/RecursiveRenderPlugin.git
+[submodule "RedDotPlugin"]
+	path = RedDotPlugin
+	url = git@github.com:foswiki/RedDotPlugin.git
+[submodule "RedirectBySubdomainAddOn"]
+	path = RedirectBySubdomainAddOn
+	url = git@github.com:foswiki/RedirectBySubdomainAddOn.git
+[submodule "RedirectPlugin"]
+	path = RedirectPlugin
+	url = git@github.com:foswiki/RedirectPlugin.git
+[submodule "RegexCacheSearchPlugin"]
+	path = RegexCacheSearchPlugin
+	url = git@github.com:foswiki/RegexCacheSearchPlugin.git
+[submodule "RenderFormPlugin"]
+	path = RenderFormPlugin
+	url = git@github.com:foswiki/RenderFormPlugin.git
+[submodule "RenderListPlugin"]
+	path = RenderListPlugin
+	url = git@github.com:foswiki/RenderListPlugin.git
+[submodule "RenderPlugin"]
+	path = RenderPlugin
+	url = git@github.com:foswiki/RenderPlugin.git
+[submodule "RenderTableDataPlugin"]
+	path = RenderTableDataPlugin
+	url = git@github.com:foswiki/RenderTableDataPlugin.git
+[submodule "RepositoryPlugin"]
+	path = RepositoryPlugin
+	url = git@github.com:foswiki/RepositoryPlugin.git
+[submodule "RestPlugin"]
+	path = RestPlugin
+	url = git@github.com:foswiki/RestPlugin.git
+[submodule "RevCommentPlugin"]
+	path = RevCommentPlugin
+	url = git@github.com:foswiki/RevCommentPlugin.git
+[submodule "RevRecoverPlugin"]
+	path = RevRecoverPlugin
+	url = git@github.com:foswiki/RevRecoverPlugin.git
+[submodule "RevisionLinkPlugin"]
+	path = RevisionLinkPlugin
+	url = git@github.com:foswiki/RevisionLinkPlugin.git
+[submodule "RollupPlugin"]
+	path = RollupPlugin
+	url = git@github.com:foswiki/RollupPlugin.git
+[submodule "RtfContrib"]
+	path = RtfContrib
+	url = git@github.com:foswiki/RtfContrib.git
+[submodule "S3LinkPlugin"]
+	path = S3LinkPlugin
+	url = git@github.com:foswiki/S3LinkPlugin.git
+[submodule "SablotronPlugin"]
+	path = SablotronPlugin
+	url = git@github.com:foswiki/SablotronPlugin.git
+[submodule "SafeWikiPlugin"]
+	path = SafeWikiPlugin
+	url = git@github.com:foswiki/SafeWikiPlugin.git
+[submodule "SchedulerContrib"]
+	path = SchedulerContrib
+	url = git@github.com:foswiki/SchedulerContrib.git
+[submodule "SearchEngineSwishEAddOn"]
+	path = SearchEngineSwishEAddOn
+	url = git@github.com:foswiki/SearchEngineSwishEAddOn.git
+[submodule "SearchSummaryPlugin"]
+	path = SearchSummaryPlugin
+	url = git@github.com:foswiki/SearchSummaryPlugin.git
+[submodule "SearchToTablePlugin"]
+	path = SearchToTablePlugin
+	url = git@github.com:foswiki/SearchToTablePlugin.git
+[submodule "SectionPermissionPlugin"]
+	path = SectionPermissionPlugin
+	url = git@github.com:foswiki/SectionPermissionPlugin.git
+[submodule "SectionalEditPlugin"]
+	path = SectionalEditPlugin
+	url = git@github.com:foswiki/SectionalEditPlugin.git
+[submodule "SecurityPlugin"]
+	path = SecurityPlugin
+	url = git@github.com:foswiki/SecurityPlugin.git
+[submodule "SemanticLinksPlugin"]
+	path = SemanticLinksPlugin
+	url = git@github.com:foswiki/SemanticLinksPlugin.git
+[submodule "SendEmailPlugin"]
+	path = SendEmailPlugin
+	url = git@github.com:foswiki/SendEmailPlugin.git
+[submodule "SetSkinByCookiePlugin"]
+	path = SetSkinByCookiePlugin
+	url = git@github.com:foswiki/SetSkinByCookiePlugin.git
+[submodule "SetTopicValuesPlugin"]
+	path = SetTopicValuesPlugin
+	url = git@github.com:foswiki/SetTopicValuesPlugin.git
+[submodule "SetVariableAddOn"]
+	path = SetVariableAddOn
+	url = git@github.com:foswiki/SetVariableAddOn.git
+[submodule "SetVariablePlugin"]
+	path = SetVariablePlugin
+	url = git@github.com:foswiki/SetVariablePlugin.git
+[submodule "SignaturePlugin"]
+	path = SignaturePlugin
+	url = git@github.com:foswiki/SignaturePlugin.git
+[submodule "SingletonWikiWordPlugin"]
+	path = SingletonWikiWordPlugin
+	url = git@github.com:foswiki/SingletonWikiWordPlugin.git
+[submodule "SkillsPlugin"]
+	path = SkillsPlugin
+	url = git@github.com:foswiki/SkillsPlugin.git
+[submodule "SlashFilenamePlugin"]
+	path = SlashFilenamePlugin
+	url = git@github.com:foswiki/SlashFilenamePlugin.git
+[submodule "SlickSitemapContrib"]
+	path = SlickSitemapContrib
+	url = git@github.com:foswiki/SlickSitemapContrib.git
+[submodule "SlideNavPlugin"]
+	path = SlideNavPlugin
+	url = git@github.com:foswiki/SlideNavPlugin.git
+[submodule "SlideShowPlugin"]
+	path = SlideShowPlugin
+	url = git@github.com:foswiki/SlideShowPlugin.git
+[submodule "SlidyPlugin"]
+	path = SlidyPlugin
+	url = git@github.com:foswiki/SlidyPlugin.git
+[submodule "SlionSkin"]
+	path = SlionSkin
+	url = git@github.com:foswiki/SlionSkin.git
+[submodule "SmartEditContrib"]
+	path = SmartEditContrib
+	url = git@github.com:foswiki/SmartEditContrib.git
+[submodule "SmartWordBreakPlugin"]
+	path = SmartWordBreakPlugin
+	url = git@github.com:foswiki/SmartWordBreakPlugin.git
+[submodule "SmiliesPlugin"]
+	path = SmiliesPlugin
+	url = git@github.com:foswiki/SmiliesPlugin.git
+[submodule "SnazzyRoundedCornersContrib"]
+	path = SnazzyRoundedCornersContrib
+	url = git@github.com:foswiki/SnazzyRoundedCornersContrib.git
+[submodule "SnmpCommandPlugin"]
+	path = SnmpCommandPlugin
+	url = git@github.com:foswiki/SnmpCommandPlugin.git
+[submodule "SoapClientPlugin"]
+	path = SoapClientPlugin
+	url = git@github.com:foswiki/SoapClientPlugin.git
+[submodule "SoapPlugin"]
+	path = SoapPlugin
+	url = git@github.com:foswiki/SoapPlugin.git
+[submodule "SocialBookmarkingAddOn"]
+	path = SocialBookmarkingAddOn
+	url = git@github.com:foswiki/SocialBookmarkingAddOn.git
+[submodule "SoftSkin"]
+	path = SoftSkin
+	url = git@github.com:foswiki/SoftSkin.git
+[submodule "SolrPlugin"]
+	path = SolrPlugin
+	url = git@github.com:foswiki/SolrPlugin.git
+[submodule "SourceHighlightPlugin"]
+	path = SourceHighlightPlugin
+	url = git@github.com:foswiki/SourceHighlightPlugin.git
+[submodule "SpacedWikiWordPlugin"]
+	path = SpacedWikiWordPlugin
+	url = git@github.com:foswiki/SpacedWikiWordPlugin.git
+[submodule "SpanishTWikiContrib"]
+	path = SpanishTWikiContrib
+	url = git@github.com:foswiki/SpanishTWikiContrib.git
+[submodule "SpellCheckAddOn"]
+	path = SpellCheckAddOn
+	url = git@github.com:foswiki/SpellCheckAddOn.git
+[submodule "SpellCheckerPlugin"]
+	path = SpellCheckerPlugin
+	url = git@github.com:foswiki/SpellCheckerPlugin.git
+[submodule "SpreadSheetPlugin"]
+	path = SpreadSheetPlugin
+	url = git@github.com:foswiki/SpreadSheetPlugin.git
+[submodule "SqlPlugin"]
+	path = SqlPlugin
+	url = git@github.com:foswiki/SqlPlugin.git
+[submodule "StopWikiWordLinkPlugin"]
+	path = StopWikiWordLinkPlugin
+	url = git@github.com:foswiki/StopWikiWordLinkPlugin.git
+[submodule "StringifierContrib"]
+	path = StringifierContrib
+	url = git@github.com:foswiki/StringifierContrib.git
+[submodule "StylePlugin"]
+	path = StylePlugin
+	url = git@github.com:foswiki/StylePlugin.git
+[submodule "SubscribePlugin"]
+	path = SubscribePlugin
+	url = git@github.com:foswiki/SubscribePlugin.git
+[submodule "SubversionStoreContrib"]
+	path = SubversionStoreContrib
+	url = git@github.com:foswiki/SubversionStoreContrib.git
+[submodule "SuggestLinksPlugin"]
+	path = SuggestLinksPlugin
+	url = git@github.com:foswiki/SuggestLinksPlugin.git
+[submodule "SvgPlugin"]
+	path = SvgPlugin
+	url = git@github.com:foswiki/SvgPlugin.git
+[submodule "SyncContrib"]
+	path = SyncContrib
+	url = git@github.com:foswiki/SyncContrib.git
+[submodule "SyntaxHighlightingPlugin"]
+	path = SyntaxHighlightingPlugin
+	url = git@github.com:foswiki/SyntaxHighlightingPlugin.git
+[submodule "TWikiAjaxContrib"]
+	path = TWikiAjaxContrib
+	url = git@github.com:foswiki/TWikiAjaxContrib.git
+[submodule "TWikiAjaxPlugin"]
+	path = TWikiAjaxPlugin
+	url = git@github.com:foswiki/TWikiAjaxPlugin.git
+[submodule "TWikiCacheAddOn"]
+	path = TWikiCacheAddOn
+	url = git@github.com:foswiki/TWikiCacheAddOn.git
+[submodule "TWikiCompatibilityPlugin"]
+	path = TWikiCompatibilityPlugin
+	url = git@github.com:foswiki/TWikiCompatibilityPlugin.git
+[submodule "TWikiDeploymentSpiderAddOn"]
+	path = TWikiDeploymentSpiderAddOn
+	url = git@github.com:foswiki/TWikiDeploymentSpiderAddOn.git
+[submodule "TWikiDrawSvgPlugin"]
+	path = TWikiDrawSvgPlugin
+	url = git@github.com:foswiki/TWikiDrawSvgPlugin.git
+[submodule "TWikiInstallerContrib"]
+	path = TWikiInstallerContrib
+	url = git@github.com:foswiki/TWikiInstallerContrib.git
+[submodule "TWikiInstallerWindowsContrib"]
+	path = TWikiInstallerWindowsContrib
+	url = git@github.com:foswiki/TWikiInstallerWindowsContrib.git
+[submodule "TWikiPluginInstallerContrib"]
+	path = TWikiPluginInstallerContrib
+	url = git@github.com:foswiki/TWikiPluginInstallerContrib.git
+[submodule "TWikiReleaseTrackerPlugin"]
+	path = TWikiReleaseTrackerPlugin
+	url = git@github.com:foswiki/TWikiReleaseTrackerPlugin.git
+[submodule "TWikiShellContrib"]
+	path = TWikiShellContrib
+	url = git@github.com:foswiki/TWikiShellContrib.git
+[submodule "TWikiUmlPlugin"]
+	path = TWikiUmlPlugin
+	url = git@github.com:foswiki/TWikiUmlPlugin.git
+[submodule "TablePlugin"]
+	path = TablePlugin
+	url = git@github.com:foswiki/TablePlugin.git
+[submodule "TableTmplPlugin"]
+	path = TableTmplPlugin
+	url = git@github.com:foswiki/TableTmplPlugin.git
+[submodule "TableToolAddOn"]
+	path = TableToolAddOn
+	url = git@github.com:foswiki/TableToolAddOn.git
+[submodule "TagCloudPlugin"]
+	path = TagCloudPlugin
+	url = git@github.com:foswiki/TagCloudPlugin.git
+[submodule "TagMePlugin"]
+	path = TagMePlugin
+	url = git@github.com:foswiki/TagMePlugin.git
+[submodule "TagsPlugin"]
+	path = TagsPlugin
+	url = git@github.com:foswiki/TagsPlugin.git
+[submodule "TalkContrib"]
+	path = TalkContrib
+	url = git@github.com:foswiki/TalkContrib.git
+[submodule "TaskExeContrib"]
+	path = TaskExeContrib
+	url = git@github.com:foswiki/TaskExeContrib.git
+[submodule "TaskExePlugin"]
+	path = TaskExePlugin
+	url = git@github.com:foswiki/TaskExePlugin.git
+[submodule "TemplateToolkitPlugin"]
+	path = TemplateToolkitPlugin
+	url = git@github.com:foswiki/TemplateToolkitPlugin.git
+[submodule "TestFixturePlugin"]
+	path = TestFixturePlugin
+	url = git@github.com:foswiki/TestFixturePlugin.git
+[submodule "TextSectionPlugin"]
+	path = TextSectionPlugin
+	url = git@github.com:foswiki/TextSectionPlugin.git
+[submodule "ThreadedDiscussionPlugin"]
+	path = ThreadedDiscussionPlugin
+	url = git@github.com:foswiki/ThreadedDiscussionPlugin.git
+[submodule "ThumbnailPlugin"]
+	path = ThumbnailPlugin
+	url = git@github.com:foswiki/ThumbnailPlugin.git
+[submodule "TigerSkinPlugin"]
+	path = TigerSkinPlugin
+	url = git@github.com:foswiki/TigerSkinPlugin.git
+[submodule "TimeCalcPlugin"]
+	path = TimeCalcPlugin
+	url = git@github.com:foswiki/TimeCalcPlugin.git
+[submodule "TimeSincePlugin"]
+	path = TimeSincePlugin
+	url = git@github.com:foswiki/TimeSincePlugin.git
+[submodule "TimeTablePlugin"]
+	path = TimeTablePlugin
+	url = git@github.com:foswiki/TimeTablePlugin.git
+[submodule "TimelinePlugin"]
+	path = TimelinePlugin
+	url = git@github.com:foswiki/TimelinePlugin.git
+[submodule "TinyMCECleanStickyBitsPlugin"]
+	path = TinyMCECleanStickyBitsPlugin
+	url = git@github.com:foswiki/TinyMCECleanStickyBitsPlugin.git
+[submodule "TinyMCEPlugin"]
+	path = TinyMCEPlugin
+	url = git@github.com:foswiki/TinyMCEPlugin.git
+[submodule "TinyMCEUsabilityUpgradePlugin"]
+	path = TinyMCEUsabilityUpgradePlugin
+	url = git@github.com:foswiki/TinyMCEUsabilityUpgradePlugin.git
+[submodule "TipsContrib"]
+	path = TipsContrib
+	url = git@github.com:foswiki/TipsContrib.git
+[submodule "TitleTag"]
+	path = TitleTag
+	url = git@github.com:foswiki/TitleTag.git
+[submodule "ToPDFPlugin"]
+	path = ToPDFPlugin
+	url = git@github.com:foswiki/ToPDFPlugin.git
+[submodule "TocPlugin"]
+	path = TocPlugin
+	url = git@github.com:foswiki/TocPlugin.git
+[submodule "ToolTipPlugin"]
+	path = ToolTipPlugin
+	url = git@github.com:foswiki/ToolTipPlugin.git
+[submodule "TopMenuSkin"]
+	path = TopMenuSkin
+	url = git@github.com:foswiki/TopMenuSkin.git
+[submodule "TopSecretPlugin"]
+	path = TopSecretPlugin
+	url = git@github.com:foswiki/TopSecretPlugin.git
+[submodule "TopicClassificationAddOn"]
+	path = TopicClassificationAddOn
+	url = git@github.com:foswiki/TopicClassificationAddOn.git
+[submodule "TopicCountPlugin"]
+	path = TopicCountPlugin
+	url = git@github.com:foswiki/TopicCountPlugin.git
+[submodule "TopicCreatePlugin"]
+	path = TopicCreatePlugin
+	url = git@github.com:foswiki/TopicCreatePlugin.git
+[submodule "TopicDataHelperPlugin"]
+	path = TopicDataHelperPlugin
+	url = git@github.com:foswiki/TopicDataHelperPlugin.git
+[submodule "TopicInteractionPlugin"]
+	path = TopicInteractionPlugin
+	url = git@github.com:foswiki/TopicInteractionPlugin.git
+[submodule "TopicListPlugin"]
+	path = TopicListPlugin
+	url = git@github.com:foswiki/TopicListPlugin.git
+[submodule "TopicLockPlugin"]
+	path = TopicLockPlugin
+	url = git@github.com:foswiki/TopicLockPlugin.git
+[submodule "TopicNameValidationPlugin"]
+	path = TopicNameValidationPlugin
+	url = git@github.com:foswiki/TopicNameValidationPlugin.git
+[submodule "TopicReadersPlugin"]
+	path = TopicReadersPlugin
+	url = git@github.com:foswiki/TopicReadersPlugin.git
+[submodule "TopicRecursePlugin"]
+	path = TopicRecursePlugin
+	url = git@github.com:foswiki/TopicRecursePlugin.git
+[submodule "TopicReferencePlugin"]
+	path = TopicReferencePlugin
+	url = git@github.com:foswiki/TopicReferencePlugin.git
+[submodule "TopicSpecificNavigationPlugin"]
+	path = TopicSpecificNavigationPlugin
+	url = git@github.com:foswiki/TopicSpecificNavigationPlugin.git
+[submodule "TopicStatsPlugin"]
+	path = TopicStatsPlugin
+	url = git@github.com:foswiki/TopicStatsPlugin.git
+[submodule "TopicTranslationsPlugin"]
+	path = TopicTranslationsPlugin
+	url = git@github.com:foswiki/TopicTranslationsPlugin.git
+[submodule "TopicUserMappingContrib"]
+	path = TopicUserMappingContrib
+	url = git@github.com:foswiki/TopicUserMappingContrib.git
+[submodule "TopicVarsPlugin"]
+	path = TopicVarsPlugin
+	url = git@github.com:foswiki/TopicVarsPlugin.git
+[submodule "TopicVotePlugin"]
+	path = TopicVotePlugin
+	url = git@github.com:foswiki/TopicVotePlugin.git
+[submodule "TouchGraphPlugin"]
+	path = TouchGraphPlugin
+	url = git@github.com:foswiki/TouchGraphPlugin.git
+[submodule "TracQueryPlugin"]
+	path = TracQueryPlugin
+	url = git@github.com:foswiki/TracQueryPlugin.git
+[submodule "TranslateTagPlugin"]
+	path = TranslateTagPlugin
+	url = git@github.com:foswiki/TranslateTagPlugin.git
+[submodule "TreeBrowserPlugin"]
+	path = TreeBrowserPlugin
+	url = git@github.com:foswiki/TreeBrowserPlugin.git
+[submodule "TreePlugin"]
+	path = TreePlugin
+	url = git@github.com:foswiki/TreePlugin.git
+[submodule "TweetOnSavePlugin"]
+	path = TweetOnSavePlugin
+	url = git@github.com:foswiki/TweetOnSavePlugin.git
+[submodule "TwistyPlugin"]
+	path = TwistyPlugin
+	url = git@github.com:foswiki/TwistyPlugin.git
+[submodule "TypographyPlugin"]
+	path = TypographyPlugin
+	url = git@github.com:foswiki/TypographyPlugin.git
+[submodule "URLCachePlugin"]
+	path = URLCachePlugin
+	url = git@github.com:foswiki/URLCachePlugin.git
+[submodule "UiByRestPlugin"]
+	path = UiByRestPlugin
+	url = git@github.com:foswiki/UiByRestPlugin.git
+[submodule "UnitTestContrib"]
+	path = UnitTestContrib
+	url = git@github.com:foswiki/UnitTestContrib.git
+[submodule "UpdateAttachmentsPlugin"]
+	path = UpdateAttachmentsPlugin
+	url = git@github.com:foswiki/UpdateAttachmentsPlugin.git
+[submodule "UpdateInfoPlugin"]
+	path = UpdateInfoPlugin
+	url = git@github.com:foswiki/UpdateInfoPlugin.git
+[submodule "UploadPlugin"]
+	path = UploadPlugin
+	url = git@github.com:foswiki/UploadPlugin.git
+[submodule "UploadToTWikiAddOn"]
+	path = UploadToTWikiAddOn
+	url = git@github.com:foswiki/UploadToTWikiAddOn.git
+[submodule "UrlEventHandlerPlugin"]
+	path = UrlEventHandlerPlugin
+	url = git@github.com:foswiki/UrlEventHandlerPlugin.git
+[submodule "UseModWikiToTWikiAddOn"]
+	path = UseModWikiToTWikiAddOn
+	url = git@github.com:foswiki/UseModWikiToTWikiAddOn.git
+[submodule "UserHomePageAddOn"]
+	path = UserHomePageAddOn
+	url = git@github.com:foswiki/UserHomePageAddOn.git
+[submodule "UserInfoPlugin"]
+	path = UserInfoPlugin
+	url = git@github.com:foswiki/UserInfoPlugin.git
+[submodule "ValidateUrlsPlugin"]
+	path = ValidateUrlsPlugin
+	url = git@github.com:foswiki/ValidateUrlsPlugin.git
+[submodule "VarCachePlugin"]
+	path = VarCachePlugin
+	url = git@github.com:foswiki/VarCachePlugin.git
+[submodule "VersionLinkPlugin"]
+	path = VersionLinkPlugin
+	url = git@github.com:foswiki/VersionLinkPlugin.git
+[submodule "VirtualHostingContrib"]
+	path = VirtualHostingContrib
+	url = git@github.com:foswiki/VirtualHostingContrib.git
+[submodule "VotePlugin"]
+	path = VotePlugin
+	url = git@github.com:foswiki/VotePlugin.git
+[submodule "WeatherPlugin"]
+	path = WeatherPlugin
+	url = git@github.com:foswiki/WeatherPlugin.git
+[submodule "WebAutoIncPlugin"]
+	path = WebAutoIncPlugin
+	url = git@github.com:foswiki/WebAutoIncPlugin.git
+[submodule "WebDAVPlugin"]
+	path = WebDAVPlugin
+	url = git@github.com:foswiki/WebDAVPlugin.git
+[submodule "WebLinkPlugin"]
+	path = WebLinkPlugin
+	url = git@github.com:foswiki/WebLinkPlugin.git
+[submodule "WebPermissionsPlugin"]
+	path = WebPermissionsPlugin
+	url = git@github.com:foswiki/WebPermissionsPlugin.git
+[submodule "WebsiteGalleryContrib"]
+	path = WebsiteGalleryContrib
+	url = git@github.com:foswiki/WebsiteGalleryContrib.git
+[submodule "WidgetsSkin"]
+	path = WidgetsSkin
+	url = git@github.com:foswiki/WidgetsSkin.git
+[submodule "WikiBot"]
+	path = WikiBot
+	url = git@github.com:foswiki/WikiBot.git
+[submodule "WikiDrawPlugin"]
+	path = WikiDrawPlugin
+	url = git@github.com:foswiki/WikiDrawPlugin.git
+[submodule "WikiWorkbenchContrib"]
+	path = WikiWorkbenchContrib
+	url = git@github.com:foswiki/WikiWorkbenchContrib.git
+[submodule "WikiwygContrib"]
+	path = WikiwygContrib
+	url = git@github.com:foswiki/WikiwygContrib.git
+[submodule "WordPressPlugin"]
+	path = WordPressPlugin
+	url = git@github.com:foswiki/WordPressPlugin.git
+[submodule "WorkflowPlugin"]
+	path = WorkflowPlugin
+	url = git@github.com:foswiki/WorkflowPlugin.git
+[submodule "WorkflowReportsContrib"]
+	path = WorkflowReportsContrib
+	url = git@github.com:foswiki/WorkflowReportsContrib.git
+[submodule "WysiwygPlugin"]
+	path = WysiwygPlugin
+	url = git@github.com:foswiki/WysiwygPlugin.git
+[submodule "X509UserPlugin"]
+	path = X509UserPlugin
+	url = git@github.com:foswiki/X509UserPlugin.git
+[submodule "XmlQueryPlugin"]
+	path = XmlQueryPlugin
+	url = git@github.com:foswiki/XmlQueryPlugin.git
+[submodule "XmlRpcContrib"]
+	path = XmlRpcContrib
+	url = git@github.com:foswiki/XmlRpcContrib.git
+[submodule "XmlXslPlugin"]
+	path = XmlXslPlugin
+	url = git@github.com:foswiki/XmlXslPlugin.git
+[submodule "XpTrackerPlugin"]
+	path = XpTrackerPlugin
+	url = git@github.com:foswiki/XpTrackerPlugin.git
+[submodule "YahooGridsAddOn"]
+	path = YahooGridsAddOn
+	url = git@github.com:foswiki/YahooGridsAddOn.git
+[submodule "YahooUserInterfaceContrib"]
+	path = YahooUserInterfaceContrib
+	url = git@github.com:foswiki/YahooUserInterfaceContrib.git
+[submodule "YetAnotherXpTrackerPlugin"]
+	path = YetAnotherXpTrackerPlugin
+	url = git@github.com:foswiki/YetAnotherXpTrackerPlugin.git
+[submodule "YouShallHaveNoOtherLoginsBeforeMePlugin"]
+	path = YouShallHaveNoOtherLoginsBeforeMePlugin
+	url = git@github.com:foswiki/YouShallHaveNoOtherLoginsBeforeMePlugin.git
+[submodule "YuiMenuContrib"]
+	path = YuiMenuContrib
+	url = git@github.com:foswiki/YuiMenuContrib.git
+[submodule "ZonePlugin"]
+	path = ZonePlugin
+	url = git@github.com:foswiki/ZonePlugin.git
+[submodule "core"]
+	path = core
+	url = git@github.com:foswiki/core.git
